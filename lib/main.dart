@@ -48,8 +48,8 @@ class SpeakUpAiApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
-          seedColor: const Color(0xFF4F46E5),
-          primary: const Color(0xFF4F46E5),
+          seedColor: const Color(0xFF2563EB),
+          primary: const Color(0xFF2563EB),
           secondary: const Color(0xFF10B981),
           surface: Colors.white,
         ),
